@@ -1,4 +1,4 @@
-## Olá, eu sou a Lucas! 👋
+## Olá, eu sou o Lucas! 👋
 Profissional experiente com mais de 4 anos de expertise na indústria de marketing, focado na construção de análises e elaboração de campanhas publicitárias. Proficiente na resolução de problemas de negócio a partir de metodologias científicas.
 
 Habilidade em usar uma variedade de ferramentas e plataformas para aprimorar o tratamento e análise de big data, incluindo Excel, SQL, Power BI, Looker e Python. 
